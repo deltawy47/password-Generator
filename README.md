@@ -13,7 +13,7 @@
 
 Step One : Clone the repo without checking out a work tree.
 ```
-git clone -n <repo-url>
+git clone -n https://github.com/divmoe/password-Generator.git
 ```
 Step Two : check out the file.
 ```
