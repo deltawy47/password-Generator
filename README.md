@@ -1,4 +1,4 @@
-# Goblin_Game
+# Password Generator
 
  Password Generator is the simple compiled application developed within C++. This application is based on low-level languages, C++. 
 
